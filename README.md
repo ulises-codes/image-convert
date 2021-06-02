@@ -13,7 +13,7 @@ pip install -r requirements.txt
 2. Run the script:
 
 ```shell
-python -m src [path to file or directory] [original file type] [desired file type]
+python -m src [absolute path to file or directory] [original file type] [desired file type]
 ```
 
 Example:
